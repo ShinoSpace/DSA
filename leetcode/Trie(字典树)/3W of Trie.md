@@ -22,13 +22,13 @@ Trie也可以视为一棵树「决策树」。
 
 例如词典\["Shino", "Asuna", "Asagi", "Isla"\]，以该词典建树：
 
-![Trie](./WWW(what-why-how)%20of%20Trie/Trie.png)
+![Trie](./3W%20of%20Trie/Trie.png)
 
 ## how to use Trie?
 
 仍以词典\["Shino", "Asuna", "Asagi", "Isla"\]为例：
 
-![Trie](./WWW(what-why-how)%20of%20Trie/Trie.png)
+![Trie](./3W%20of%20Trie/Trie.png)
 
 数据结构无非「增删改查」四件事。Trie的目的就是为了进行查询，因此着重增、查操作。更改操作的逻辑与查是相同的。而删除操作极少使用，先行跳过。
 
