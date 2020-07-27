@@ -34,3 +34,6 @@
 # draw raw files
 *.excalidraw
 *.tif
+
+# backup
+练习题.md
